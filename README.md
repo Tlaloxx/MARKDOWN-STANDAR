@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://github.com/Tlaloxx">
     <img src="https://images.vexels.com/media/users/3/185019/isolated/preview/b7328d8cd1f9714a76ed75db0edca1fe-ilustracion-de-calavera-de-calavera-de-azucar.png" alt="Logo" width=72 height=72>
   </a>
 
@@ -8,9 +8,9 @@
   <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/Tlaloxx">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/Tlaloxx">Request feature</a>
   </p>
 </p>
 
