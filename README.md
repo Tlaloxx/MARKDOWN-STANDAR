@@ -26,6 +26,11 @@
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
+### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+
+::: warning
+*here be dragons*
+:::
 
 ## Quick start
 
