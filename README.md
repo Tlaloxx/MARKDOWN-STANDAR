@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://images.vexels.com/media/users/3/185019/isolated/preview/b7328d8cd1f9714a76ed75db0edca1fe-ilustracion-de-calavera-de-calavera-de-azucar.png" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Logo</h3>
